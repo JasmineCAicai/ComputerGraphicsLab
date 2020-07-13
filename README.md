@@ -1,2 +1,2 @@
 # ComputerGraphicsLab
-CG lab sections
+CG lab section exercises
